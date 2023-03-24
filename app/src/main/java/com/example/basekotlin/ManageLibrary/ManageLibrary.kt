@@ -17,12 +17,6 @@ class ManageLibrary {
         }
     }
 
-    fun showAllBook(){
-
-    }
-
-
-
     fun listOfDocument(){
         listDocument.forEach(System.out::println)
     }
